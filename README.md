@@ -1,3 +1,5 @@
+## Implementing the described katas in Ruby for practise
+
 ## TDD-Katas : Continued from TDD-Kata practices [http://tddkatas.codeplex.com/]
 
 ### String Calculator
