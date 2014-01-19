@@ -1,7 +1,7 @@
-## Implementing the described katas in Ruby for practise
+### Implementing the described katas in Ruby for practise
 
-## TDD-Katas : Continued from TDD-Kata practices [http://tddkatas.codeplex.com/]
-
+#### TDD-Katas source: [http://tddkatas.codeplex.com/]
+*****
 ### String Calculator
 
 	- Create a simple String calculator with a method int Add(string numbers)
