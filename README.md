@@ -480,7 +480,7 @@
 
 ----------------------------------------------------------------------
 
-### The Word Wrap Kata [http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap]
+### ~~The Word Wrap Kata [http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap]~~
 	Create a function which breaks words on specified space with new line. Its nothing but merely similar to word-processor.
 
 #### Steps:
